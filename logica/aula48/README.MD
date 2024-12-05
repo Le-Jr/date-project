@@ -1,12 +1,10 @@
 # Drum Kit Virtual 🎵
 
-Este projeto é uma página interativa que transforma o teclado em uma bateria virtual! Letras correspondem a diferentes partes da bateria, e ao pressionar uma delas, o som correspondente é reproduzido.
+Este projeto consiste em uma página simples que exibe um relógio com a hora atual em uma caixa central. Ele foi desenvolvido com o objetivo de praticar e aprimorar conhecimentos em JavaScript, especialmente no uso do DOM, estruturas condicionais como switch case, operadores ternários e no objeto Date.
 
-Este projeto foi desenvolvido para aprimorar meus conhecimentos em JavaScript, especialmente na manipulação do DOM, no uso de estruturas como o laço for, eventos como keydown, e no trabalho com o objeto Audio.
+Este projeto foi um passo importante no meu aprendizado e contribuiu para reforçar conceitos fundamentais do desenvolvimento web.
 
-Além de ser uma experiência prática divertida, o projeto ajudou a consolidar conceitos fundamentais de programação e interatividade na web.
-
-<img src="./images/print-pag1.png" alt="Exemplo imagem" width="700">
+<img src="./assets/img/print-pag.png/" alt="Exemplo imagem" width="700">
 
 ## 🚀 Começando
 
@@ -21,8 +19,8 @@ Consulte **[Clonando o projeto](#-clonando-o-projeto)** para saber como implanta
 Clone o reposítorio para seu ambiente local
 
 ```bash
-git clone https://github.com/Le-Jr/drumJs-project.git
-cd drumJs-project
+git clone https://github.com/Le-Jr/date-project.git
+cd date-project
 ```
 
 ### 2 Editando o projeto
@@ -56,7 +54,7 @@ Tecnologias utilizadas no projeto:
 
 ## 🎁 Expressões de gratidão
 
-- Agradeço, especialmente à instrutora <a href="https://www.appbrewery.com/" target="_blank" >Dra Angela Yu</a>, pelo excelente curso que possibilitou a existência deste projeto
+- Agradeço, especialmente ao instrutor <a href="https://github.com/luizomf" target="_blank" >Luiz Otávio Miranda</a>, pelo excelente curso que possibilitou a existência deste projeto
 
 ---
 
